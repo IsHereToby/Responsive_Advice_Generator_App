@@ -10,8 +10,6 @@ Users are able to:
 
 ![Screenshot](/public/images/screenshot.png)
 
-## My process
-
 ### Built with
 
 - Semantic HTML5 markup
