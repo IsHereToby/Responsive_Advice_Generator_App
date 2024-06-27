@@ -1,7 +1,5 @@
 # Advice Generator App
 
-## Summary
-
 ### The Idea
 
 Users are able to:
