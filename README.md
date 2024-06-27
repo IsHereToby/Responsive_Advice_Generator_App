@@ -1,6 +1,6 @@
 # Advice Generator App
 
-### The Idea
+### Idea
 
 Users are able to:
 
